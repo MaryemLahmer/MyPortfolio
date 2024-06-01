@@ -1,0 +1,20 @@
+[
+    {
+        "role": "Intern",
+        "organisation" : " Simac",
+        "duration":"4 weeks",
+        "experiences":["Benchmarking existing open-source version-control solutions",
+        "Creating a migration methodology from SVN to Git",
+        "Setting up a migration flow for the development team "],
+        "imageSrc":"history/society.png"
+    },
+    {
+        "role": "Intern",
+        "organisation" : " Papritech",
+        "duration":"8 weeks",
+        "experiences":["Benchmarking existing open-source version-control solutions",
+        "Creating a migration methodology from SVN to Git",
+        "Setting up a migration flow for the development team "],
+        "imageSrc":"history/organisation.png"
+    }
+]
