@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Flutter",
+        "imageSrc": "skills/app.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
+    },
+    
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Java Script",
+        "imageSrc": "skills/js.png"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "Figma",
+        "imageSrc": "skills/figma.png"
+    }
+
+]
