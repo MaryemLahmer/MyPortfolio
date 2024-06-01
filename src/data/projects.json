@@ -1,0 +1,26 @@
+[
+    {
+        "title": "MedicaConsult",
+        "imageSrc": "projects/medical.png",
+        "description": "This is a project made to learn the latest",
+        "skills": ["Flutter","Firebase","Figma"],
+        "demo":"https://",
+        "source": "https://www.github.com/MaryemLahmer/MedicaConsult"
+    },
+    {
+        "title": "E-Commerce App",
+        "imageSrc": "projects/e-commerce.png",
+        "description": "This is a project made to learn the latest",
+        "skills": ["Flutter","Firebase","Figma"],
+        "demo":"https://",
+        "source": "https://www.github.com/MaryemLahmer/MedicaConsult"
+    },
+    {
+        "title": "Lavendar Haze Website",
+        "imageSrc": "projects/lavendarHaze.png",
+        "description": "This is a project made to learn the latest",
+        "skills": ["HTML","CSS","JavaScript","PHP"],
+        "demo":"https://",
+        "source": "https://www.github.com/MaryemLahmer/MedicaConsult"
+    }
+]
