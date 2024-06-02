@@ -27,6 +27,27 @@
     {
         "title": "Figma",
         "imageSrc": "skills/figma.png"
+    },
+    {
+        "title": "Cisco",
+        "imageSrc": "skills/router.png"
+    },
+    {
+        "title": "Linux",
+        "imageSrc": "skills/linux.png"
+    },
+    {
+        "title": "Network \nprogramming.",
+        "imageSrc": "skills/dns.png"
+    },
+    {
+        "title": "Encryption",
+        "imageSrc": "skills/security.png"
+    },
+    {
+        "title": "Network administration",
+        "imageSrc": "skills/ip.png"
     }
+
 
 ]
