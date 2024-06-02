@@ -1,4 +1,4 @@
-![image](https://github.com/MaryemLahmer/MyPortfolio/assets/121202537/41f3b90b-85a7-41d7-a2ab-ece1350bfac5)# My Portfolio
+# My Portfolio
 
 This is a portfolio portfolio that I built using React, to highlight my career for potential recruiters. It is responsive and has an intuitive design. 
 # Sections overview: 
