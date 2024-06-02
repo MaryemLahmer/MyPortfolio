@@ -2,25 +2,25 @@
     {
         "title": "MedicaConsult",
         "imageSrc": "projects/medical.png",
-        "description": "This is a project made to learn the latest",
+        "description": "Medical Consultation Application for online appointment-booking.",
         "skills": ["Flutter","Firebase","Figma"],
-        "demo":"https://",
+        "demo":"https://drive.google.com/drive/u/0/folders/1XHBLP-XkI7Eenz58E5qzqZ5TzEX9LpjB",
         "source": "https://www.github.com/MaryemLahmer/MedicaConsult"
     },
     {
         "title": "E-Commerce App",
         "imageSrc": "projects/e-commerce.png",
-        "description": "This is a project made to learn the latest",
+        "description": "E-commerce mobile application for shopping and delivery.",
         "skills": ["Flutter","Firebase","Figma"],
-        "demo":"https://",
-        "source": "https://www.github.com/MaryemLahmer/MedicaConsult"
+        "demo":"https://drive.google.com/drive/u/0/folders/1nz9_qW8TjduQPzDEmvLRgm4xnzcB6M-v",
+        "source": "https://github.com/MaryemLahmer/E-Commerce-with-Backend"
     },
     {
         "title": "Lavendar Haze Website",
         "imageSrc": "projects/lavendarHaze.png",
-        "description": "This is a project made to learn the latest",
+        "description": "E-commerce website for shopping and delivery.",
         "skills": ["HTML","CSS","JavaScript","PHP"],
         "demo":"https://",
-        "source": "https://www.github.com/MaryemLahmer/MedicaConsult"
+        "source": "https://www.github.com/MaryemLahmer"
     }
 ]
