@@ -1,8 +1,24 @@
 [
     {
+        "title": "TPS Game",
+        "imageSrc": "projects/gamede.png",
+        "description": "A game where the player must survive waves of enemies.",
+        "skills": ["Unity Engine","C#"],
+        "demo":"https://drive.google.com/drive/u/0/folders/1XHBLP-XkI7Eenz58E5qzqZ5TzEX9LpjB",
+        "source": "https://github.com/MaryemLahmer/ThirdPersonShootingGame.git"
+    },
+    {
+        "title": "Bomber Man",
+        "imageSrc": "projects/mail.png",
+        "description": "A Python tool that facilitates sending emails automatically using SMTP.",
+        "skills": ["Python","SMTP protocol"],
+        "demo":"https://drive.google.com/drive/u/0/folders/1XHBLP-XkI7Eenz58E5qzqZ5TzEX9LpjB",
+        "source": "https://www.github.com/MaryemLahmer/MedicaConsult"
+    },
+    {
         "title": "MedicaConsult",
         "imageSrc": "projects/medical.png",
-        "description": "Medical Consultation Application for online appointment-booking.",
+        "description": "A Medical Consultation Application for online appointment-booking.",
         "skills": ["Flutter","Firebase","Figma"],
         "demo":"https://drive.google.com/drive/u/0/folders/1XHBLP-XkI7Eenz58E5qzqZ5TzEX9LpjB",
         "source": "https://www.github.com/MaryemLahmer/MedicaConsult"
@@ -10,7 +26,7 @@
     {
         "title": "E-Commerce App",
         "imageSrc": "projects/e-commerce.png",
-        "description": "E-commerce mobile application for shopping and delivery.",
+        "description": "An E-commerce mobile app for shopping.",
         "skills": ["Flutter","Firebase","Figma"],
         "demo":"https://drive.google.com/drive/u/0/folders/1nz9_qW8TjduQPzDEmvLRgm4xnzcB6M-v",
         "source": "https://github.com/MaryemLahmer/E-Commerce-with-Backend"
@@ -18,7 +34,7 @@
     {
         "title": "Lavendar Haze Website",
         "imageSrc": "projects/lavendarHaze.png",
-        "description": "E-commerce website for shopping and delivery.",
+        "description": "An E-commerce website for shopping and delivery.",
         "skills": ["HTML","CSS","JavaScript","PHP"],
         "demo":"https://",
         "source": "https://www.github.com/MaryemLahmer"

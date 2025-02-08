@@ -8,10 +8,17 @@
         "imageSrc": "skills/python.png"
     },
     {
+        "title": "C++",
+        "imageSrc": "skills/c++.png"
+    },
+    {
+        "title": "C#",
+        "imageSrc": "skills/csharp.png"
+    },
+    {
         "title": "Java",
         "imageSrc": "skills/java.png"
     },
-    
     {
         "title": "React",
         "imageSrc": "skills/react.png"
@@ -23,6 +30,14 @@
     {
         "title": "HTML",
         "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "GIT",
+        "imageSrc": "skills/git.png"
+    },
+    {
+        "title": "Unity Engine",
+        "imageSrc": "skills/unity.png"
     },
     {
         "title": "Figma",
@@ -37,7 +52,7 @@
         "imageSrc": "skills/linux.png"
     },
     {
-        "title": "Network \nprogramming.",
+        "title": "Network",
         "imageSrc": "skills/dns.png"
     },
     {
@@ -45,7 +60,7 @@
         "imageSrc": "skills/security.png"
     },
     {
-        "title": "Network administration",
+        "title": "Network admin",
         "imageSrc": "skills/ip.png"
     }
 
