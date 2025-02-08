@@ -1,20 +1,21 @@
 [
     {
         "role": "Intern",
-        "organisation" : " Simac",
+        "organisation" : "at Papritech",
+        "duration":"8 weeks",
+        "experiences":["Collaborating on the app design",
+        "Implementing the user interface and different user features (searching, rating, booking, reviewing, filtering...)",
+        "Implementing CRUD operations for user and syncing the data"],
+        "imageSrc":"history/organisation.png"
+    },
+    {
+        "role": "Intern",
+        "organisation" : "at Simac",
         "duration":"4 weeks",
         "experiences":["Benchmarking existing open-source version-control solutions",
         "Creating a migration methodology from SVN to Git",
         "Setting up a migration flow for the development team "],
         "imageSrc":"history/society.png"
-    },
-    {
-        "role": "Intern",
-        "organisation" : " Papritech",
-        "duration":"8 weeks",
-        "experiences":["Benchmarking existing open-source version-control solutions",
-        "Creating a migration methodology from SVN to Git",
-        "Setting up a migration flow for the development team "],
-        "imageSrc":"history/organisation.png"
     }
+   
 ]
