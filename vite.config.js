@@ -8,5 +8,6 @@ export default defineConfig({
     modules: {
       localsConvention: "camelCase"
     }
-  }
+  },
+  base:"/Maryem-Portfolio"
 })
